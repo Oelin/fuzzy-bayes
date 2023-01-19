@@ -1,2 +1,3 @@
-# fuzzy-bayes
-Experiments with Fuzzy Bayesian Inference.
+# Lossy Bayes
+
+Experiments with lossy Bayesian inference.
